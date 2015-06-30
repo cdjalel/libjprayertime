@@ -1,0 +1,35 @@
+#--
+# $Id: AUTHORS 2191 2009-03-12 00:22:18Z thamer $
+#--
+
+(To reach any/all of the contributors mail to developer -at- arabeyes . org)
+
+PACKAGE - Hijri
+===============
+
+Nadim Shaikli:
+- Contributed brute force calculation method 
+
+Fayez Alhargan: 
+- Author of Umm Alqura code of hijri. For contact info, see the file:
+  hijri/src/umm_alqura.c
+
+
+PACKAGE - Prayertime
+====================
+
+Thamer Mahmoud:
+- Contributed the prayertime backend code
+
+Djalel Chefrour
+- Ported prayertime to Java
+
+PACKAGE - Build process
+=======================
+
+-Samy Al Bahra:
+- Autoconf generation and support files
+
+Thamer Mahmoud:
+- Shared/Static library build process
+- Debian packaging
